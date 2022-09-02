@@ -8,3 +8,5 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gozdesaygiliyalcin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gözde-saygılı-yalçın-0a406443/)
 
 <img src="https://komarev.com/ghpvc/?username=GozdeSaygiliYalcin&style=flat-square&color=blue" alt=""/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GozdeSaygiliYalcin)
