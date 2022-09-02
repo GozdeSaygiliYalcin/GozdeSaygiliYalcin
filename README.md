@@ -9,4 +9,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=GozdeSaygiliYalcin&style=flat-square&color=blue" alt=""/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GozdeSaygiliYalcin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GozdeSaygiliYalcin&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GozdeSaygiliYalcin&show_icons=true&theme=tokyonight)
