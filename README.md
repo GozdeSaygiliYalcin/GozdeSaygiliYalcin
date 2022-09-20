@@ -4,7 +4,7 @@
 **GozdeSaygiliYalcin/GozdeSaygiliYalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working with Java, Springboot
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gozdesaygiliyalcin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gözde-saygılı-yalçın-0a406443/)
 
 <img src="https://komarev.com/ghpvc/?username=GozdeSaygiliYalcin&style=flat-square&color=blue" alt=""/>
