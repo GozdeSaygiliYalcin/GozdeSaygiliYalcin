@@ -5,7 +5,7 @@
 -->
 
 - 🌱 I’m currently working with Java, Spring Boot, PostgreSQL mostly, and also the other technologies that I use HTML5, CSS3, JavaScript, MongoDB, Docker, Kubernetes
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gozdesaygiliyalcin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gözde-saygılı-yalçın-0a406443/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gozdesaygiliyalcin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gozde-saygili-yalcin/)
 
 
 <p align="center">
