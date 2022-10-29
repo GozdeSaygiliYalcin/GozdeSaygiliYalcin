@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="100"/>
 </div>
-- 🌱 I’m currently working with Java, Spring Boot, PostgreSQL mostly, and also the other technologies that I use HTML5, CSS3, JavaScript, React, MongoDB, Docker, Kubernetes
+- 🌱 I’m currently working with Java, Spring Boot, PostgreSQL mostly, and also the other technologies that I use HTML5, CSS3, JavaScript, React, MongoDB, Docker, Kubernetes, Redux
 </p>
 
 <p align="center">
