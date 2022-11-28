@@ -5,9 +5,9 @@
 - 🌱 I’m currently working with Java, Spring Boot, PostgreSQL mostly, and also the other technologies that I use HTML5, CSS3, JavaScript, React, MongoDB, Docker, Kubernetes, Redux
 </p>
 
- <!--- <p align="center">
+<p align="center">
  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gozdesaygiliyalcin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
-</p> -->
+</p> 
 
 <p align="center">
 <img height="50%" width="auto" src="https://komarev.com/ghpvc/?username=gozdesaygiliyalcin&style=flat-square&color=orange" alt=""/>
